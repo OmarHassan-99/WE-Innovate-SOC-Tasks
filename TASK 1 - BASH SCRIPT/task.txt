@@ -1,0 +1,1 @@
+Create a Bash script to block all traffic to/from a domain by resolving its IPs , then save the info to a file.
