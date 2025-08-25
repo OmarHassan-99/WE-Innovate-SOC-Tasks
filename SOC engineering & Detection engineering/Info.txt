@@ -1,0 +1,9 @@
+I combined a few of these tasks into one docucmentation , original tasks :
+
+1-Elastic & Kibana Setup
+2-FluentBit Setup
+3-WinLogBeat Setup
+4-Elastic API & Ingestion Pipline
+5-Auditing Logs
+6-Detection Rules 1
+7-Detection Rules 2
